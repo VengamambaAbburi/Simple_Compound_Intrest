@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\Interest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\Interest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\WindowsForms\WindowsFormsApp2\obj\Debug\Interest.csprojAssemblyReference.cache
